@@ -8,6 +8,7 @@
 - You can view the full user guide at http://students.cs.ucl.ac.uk/2020/group11/UseGuide.html
 
 ## How to Run our Source Code
+- Source code could be found at: https://github.com/Apperta-IXN-for-the-NHS/SC360Editor2021
 - SC360VideoEditor and SC360Player are the source code of the editor and the player of our project.
 - You need to install Unity to view the content, we use version 2019.4.14f1 in our project (https://unity.cn/releases/lts/2019).
 - Then you can open the folder with Unity directly. Open the sample Scene in assets/scene and click the play button to view real time execution.
